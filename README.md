@@ -75,22 +75,6 @@ lucas = {
 
 ---
 
-## 🏆 Troféus GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lucasresende&theme=tokyonight&no-frame=true&row=1&column=6" alt="Troféus"/>
-</div>
-
----
-
-## 📈 Atividade Recente
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucasresende&theme=tokyo-night&border_radius=10" alt="Gráfico de atividade"/>
-</div>
-
----
-
 ## 🌐 Vamos nos conectar!
 
 <div align="center">
